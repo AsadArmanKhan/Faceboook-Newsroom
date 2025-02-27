@@ -39,4 +39,4 @@ Improve responsiveness for mobile devices.
 
 Author
 
-Asad Arman Khan
+Asad Arman Khan <https://github.com/AsadArmanKhan>
